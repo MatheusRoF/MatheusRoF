@@ -3,14 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Matheus+Rodrigues+Ferreira;I'm+24+years+old;I+am+from+Brasília,+DF;Be+Welcome!+😁)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusRof&show_icons=true&count_private=true&hide_border=true&title_color=0057E9FF&icon_color=0057E9FF&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Rodrigues Ferreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRof&layout=compact&hide_border=true&title_color=0057E9FF&text_color=0057E9FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusRof&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusRof&theme=midnight-purple&hide_border=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRof&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusRof&bg_color=000000&color=0057E9FF&line=02ACE9FF&point=0057E9FF&area=true&hide_border=true)](https://github.com/MatheusRof/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusRof&bg_color=000000&color=9955FF&line=02ACE9FF&point=9955FF&area=true&hide_border=true)](https://github.com/MatheusRof/github-readme-activity-graph)
+
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusRof&theme=Aura&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusRof&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
