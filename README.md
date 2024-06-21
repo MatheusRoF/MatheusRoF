@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME&section=header&reversal=false&descAlign=100&descAlignY=0"/>
-  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME&section=header&reversal=false&descAlign=100&descAlignY=0"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Matheus+Rodrigues+Ferreira;I'm+24+years+old;I+am+from+Brasília,+DF;Be+Welcome!+😁)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -13,10 +13,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusRof&theme=Aura&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/matheus_rodf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
+<div align="center">
+  <a href="https://www.instagram.com/matheus_rodf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -44,11 +44,11 @@
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>
-  <p align="center" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(204deg) brightness(110%) contrast(100%);">
+  <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/{MatheusRof}/count.svg" />
   </p>
   <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=false&descAlign=0&descAlignY=100"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=false&descAlign=0&descAlignY=100"/>
 
