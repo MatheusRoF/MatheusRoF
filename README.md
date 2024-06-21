@@ -1,10 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME&section=header&reversal=false&descAlign=100&descAlignY=0"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Matheus+Rodrigues+Ferreira;I'm+24+years+old;I+am+from+Brasília,+DF;Be+Welcome!+😁)](https://git.io/typing-svg)
-
+- - -
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusRof&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusRof&theme=midnight-purple&hide_border=true" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRof&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
